@@ -1,0 +1,23 @@
+{
+   "creationTimeStamp": "2022-04-20T06:07:04.374Z",
+   "createdBy": "edmdev",
+   "modifiedTimeStamp": "2022-04-20T06:07:41.974Z",
+   "modifiedBy": "edmdev",
+   "id": "118e58e6-a1a7-4eca-bc2e-7ba9759811d8",
+   "name": "QS_DTree_RModel",
+   "description": "Home Mortgage Equity Qualification (R). rpart.control(maxcompete=0, maxsurrogate=0, xval=0, minsplit=25, maxdepth=10)",
+   "role": "plain",
+   "scoreCodeType": "r",
+   "algorithm": "tree",
+   "function": "classification",
+   "modeler": "sasdemo",
+   "trainCodeType": "r",
+   "trainTable": " ",
+   "eventProbVar": "EM_EVENTPROBABILITY",
+   "targetVariable": "BAD",
+   "targetEvent": "1",
+   "targetLevel": "binary",
+   "tool": "R",
+   "toolVersion": "R version 4.0.2 (2020-06-22)",
+   "custom field": []
+}

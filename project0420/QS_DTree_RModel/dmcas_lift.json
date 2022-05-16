@@ -1,0 +1,176 @@
+{
+  "name": "dmcas_lift",
+  "revision": 0,
+  "order": 0,
+  "parameterMap": {
+    "_DataRole_": {
+      "parameter": "_DataRole_",
+      "type": "char",
+      "label": "Data Role",
+      "length": 10,
+      "order": 1,
+      "values": ["_DataRole_"],
+      "preformatted": false
+    },
+    "_PartInd_": {
+      "parameter": "_PartInd_",
+      "type": "num",
+      "label": "Partition Indicator",
+      "length": 8,
+      "order": 2,
+      "values": ["_PartInd_"],
+      "preformatted": false
+    },
+    "_PartInd__f": {
+      "parameter": "_PartInd__f",
+      "type": "char",
+      "label": "Formatted Partition",
+      "length": 12,
+      "order": 3,
+      "values": ["_PartInd__f"],
+      "preformatted": false
+    },
+    "_Column_": {
+      "parameter": "_Column_",
+      "type": "char",
+      "label": "Analysis Variable",
+      "length": 32,
+      "order": 4,
+      "values": ["_Column_"],
+      "preformatted": false
+    },
+    "_Event_": {
+      "parameter": "_Event_",
+      "type": "char",
+      "label": "Event",
+      "length": 1,
+      "order": 5,
+      "values": ["_Event_"],
+      "preformatted": false
+    },
+    "_Depth_": {
+      "parameter": "_Depth_",
+      "type": "num",
+      "label": "Depth",
+      "length": 8,
+      "order": 7,
+      "values": ["_Depth_"],
+      "preformatted": false
+    },
+    "_NObs_": {
+      "parameter": "_NObs_",
+      "type": "num",
+      "label": "Sum of Frequencies",
+      "length": 8,
+      "order": 8,
+      "values": ["_NObs_"],
+      "preformatted": false
+    },
+    "_Gain_": {
+      "parameter": "_Gain_",
+      "type": "num",
+      "label": "Gain",
+      "length": 8,
+      "order": 9,
+      "values": ["_Gain_"],
+      "preformatted": false
+    },
+    "_Resp_": {
+      "parameter": "_Resp_",
+      "type": "num",
+      "label": "% Captured Response",
+      "length": 8,
+      "order": 10,
+      "values": ["_Resp_"],
+      "preformatted": false
+    },
+    "_CumResp_": {
+      "parameter": "_CumResp_",
+      "type": "num",
+      "label": "Cumulative % Captured Response",
+      "length": 8,
+      "order": 11,
+      "values": ["_CumResp_"],
+      "preformatted": false
+    },
+    "_PctResp_": {
+      "parameter": "_PctResp_",
+      "type": "num",
+      "label": "% Response",
+      "length": 8,
+      "order": 12,
+      "values": ["_PctResp_"],
+      "preformatted": false
+    },
+    "_CumPctResp_": {
+      "parameter": "_CumPctResp_",
+      "type": "num",
+      "label": "Cumulative % Response",
+      "length": 8,
+      "order": 13,
+      "values": ["_CumPctResp_"],
+      "preformatted": false
+    },
+    "_Lift_": {
+      "parameter": "_Lift_",
+      "type": "num",
+      "label": "Lift",
+      "length": 8,
+      "order": 14,
+      "values": ["_Lift_"],
+      "preformatted": false
+    },
+    "_CumLift_": {
+      "parameter": "_CumLift_",
+      "type": "num",
+      "label": "Cumulative Lift",
+      "length": 8,
+      "order": 15,
+      "values": ["_CumLift_"],
+      "preformatted": false
+    }
+  },
+  "data": [
+      {
+        "dataMap": {
+          "_DataRole_": "TRAIN",
+          "_PartInd_": 1,
+          "_PartInd__f": "           1",
+          "_Column_": "BAD",
+          "_Event_": 1,
+          "_Depth_": 5.6375838926174,
+          "_NObs_": 84,
+          "_Gain_": 56,
+          "_Resp_": 40.5797101449275,
+          "_CumResp_": 40.5797101449275,
+          "_PctResp_": 66.6666666666667,
+          "_CumPctResp_": 66.6666666666667,
+          "_Lift_": 7.1980676328502,
+          "_CumLift_": 7.1980676328502
+        },
+        "rowNumber": 1
+      },
+      {
+        "dataMap": {
+          "_DataRole_": "TRAIN",
+          "_PartInd_": 1,
+          "_PartInd__f": "           1",
+          "_Column_": "BAD",
+          "_Event_": 1,
+          "_Depth_": 100,
+          "_NObs_": 1406,
+          "_Gain_": 82,
+          "_Resp_": 59.4202898550725,
+          "_CumResp_": 100,
+          "_PctResp_": 5.8321479374111,
+          "_CumPctResp_": 9.261744966443,
+          "_Lift_": 0.6297029294741,
+          "_CumLift_": 1
+        },
+        "rowNumber": 2
+      }
+    ],
+  "version": 1,
+  "xInteger": false,
+  "yInteger": false
+}

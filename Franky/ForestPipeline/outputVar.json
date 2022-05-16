@@ -1,0 +1,82 @@
+[
+   {
+      "name": "_WARN_",
+      "description": "Warnings",
+      "role": "output",
+      "type": "string",
+      "level": "",
+      "format": "",
+      "aggregation": "",
+      "length": 4
+   },
+   {
+      "name": "_P_",
+      "description": "",
+      "role": "output",
+      "type": "decimal",
+      "level": "",
+      "format": "",
+      "aggregation": "",
+      "length": 8
+   },
+   {
+      "name": "EM_CLASSIFICATION",
+      "description": "Into: BAD",
+      "role": "output",
+      "type": "string",
+      "level": "",
+      "format": "",
+      "aggregation": "",
+      "length": 12
+   },
+   {
+      "name": "EM_PROBABILITY",
+      "description": "Probability of Classification",
+      "role": "output",
+      "type": "decimal",
+      "level": "",
+      "format": "",
+      "aggregation": "",
+      "length": 8
+   },
+   {
+      "name": "P_BAD0",
+      "description": "Predicted: BAD=0",
+      "role": "output",
+      "type": "decimal",
+      "level": "",
+      "format": "",
+      "aggregation": "",
+      "length": 8
+   },
+   {
+      "name": "P_BAD1",
+      "description": "Predicted: BAD=1",
+      "role": "output",
+      "type": "decimal",
+      "level": "",
+      "format": "",
+      "aggregation": "",
+      "length": 8
+   },
+   {
+      "name": "EM_EVENTPROBABILITY",
+      "description": "Predicted: BAD=1",
+      "role": "output",
+      "type": "decimal",
+      "level": "",
+      "format": "",
+      "aggregation": "",
+      "length": 8
+   },
+   {
+      "name": "I_BAD",
+      "description": "Into: BAD",
+      "role": "output",
+      "type": "string",
+      "level": "",
+      "format": "",
+      "aggregation": "",
+      "length": 32
+   }
+]

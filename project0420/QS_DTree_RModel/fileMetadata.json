@@ -1,0 +1,38 @@
+[
+   {
+      "name": "hmeq_classtree_r_score .r",
+      "role": "score"
+   },
+   {
+      "name": "hmeq_classtree_r_score.py",
+      "role": "scoreResource"
+   },
+   {
+      "name": "hmeq_classtree_train.r",
+      "role": "train"
+   },
+   {
+      "name": "dmcas_lift.json",
+      "role": "trainResource"
+   },
+   {
+      "name": "inputVar.json",
+      "role": "inputVariables"
+   },
+   {
+      "name": "outputVar.json",
+      "role": "outputVariables"
+   },
+   {
+      "name": "dmcas_roc.json",
+      "role": "trainResource"
+   },
+   {
+      "name": "dmcas_fitstat.json",
+      "role": "trainResource"
+   },
+   {
+      "name": "hmeq_classtree_r.rds",
+      "role": "scoreResource"
+   }
+]

@@ -1,0 +1,22 @@
+[
+   {
+      "name": "ContainerWrapper.py",
+      "role": "scoreResource"
+   },
+   {
+      "name": "settings.py",
+      "role": "scoreResource"
+   },
+   {
+      "name": "outputVar.json",
+      "role": "outputVariables"
+   },
+   {
+      "name": "inputVar.json",
+      "role": "inputVariables"
+   },
+   {
+      "name": "hmeq_logistic_score_nopickle.py",
+      "role": "score"
+   }
+]

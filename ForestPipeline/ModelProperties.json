@@ -1,0 +1,21 @@
+{
+   "creationTimeStamp": "2022-05-13T06:49:40.227Z",
+   "createdBy": "edmdev",
+   "modifiedTimeStamp": "2022-05-16T07:28:50.583Z",
+   "modifiedBy": "edmdev",
+   "id": "23bf1c4e-57da-4e34-bb61-5e6f0399c21b",
+   "name": "ForestPipeline",
+   "role": "plain",
+   "scoreCodeType": "ds2MultiType",
+   "algorithm": "forest",
+   "function": "classification",
+   "modeler": "scnkuj",
+   "trainTable": "/dataTables/dataSources/cas~fs~cas-shared-default~fs~Public/tables/HMEQ_PERF_Q1",
+   "targetVariable": "BAD",
+   "targetEvent": "1",
+   "tool": "Model Studio",
+   "toolVersion": "V2020.1.1",
+   "publishTimeStamp": "2022-05-16T07:28:45.361838Z",
+   "externalModelId": "9d1ef204-a525-4e69-bee4-5822551f50f0",
+   "custom field": []
+}

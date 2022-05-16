@@ -1,0 +1,14 @@
+[
+  {
+    "level": "nominal",
+    "name": "EM_CLASSIFICATION",
+    "length": 1,
+    "type": "string"
+  },
+  {
+    "level": "interval",
+    "name": "EM_EVENTPROBABILITY",
+    "length": 8,
+    "type": "decimal"
+  }
+]

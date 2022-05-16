@@ -1,0 +1,22 @@
+[
+   {
+      "name": "outputVar.json",
+      "role": "outputVariables"
+   },
+   {
+      "name": "_152AHMD41W0VR1UMXV1ZS8ENTL",
+      "role": "analyticStore"
+   },
+   {
+      "name": "AMLWrapper.py",
+      "role": "scoreResource"
+   },
+   {
+      "name": "inputVar.json",
+      "role": "inputVariables"
+   },
+   {
+      "name": "dmcas_epscorecode.sas",
+      "role": "score"
+   }
+]

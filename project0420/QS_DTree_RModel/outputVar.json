@@ -1,0 +1,22 @@
+[
+   {
+      "name": "EM_CLASSIFICATION",
+      "description": "",
+      "role": "output",
+      "type": "string",
+      "level": "nominal",
+      "format": "",
+      "aggregation": "",
+      "length": 1
+   },
+   {
+      "name": "EM_EVENTPROBABILITY",
+      "description": "",
+      "role": "output",
+      "type": "decimal",
+      "level": "interval",
+      "format": "",
+      "aggregation": "",
+      "length": 8
+   }
+]

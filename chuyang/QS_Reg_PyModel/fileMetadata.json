@@ -1,0 +1,34 @@
+[
+   {
+      "name": "settings.py",
+      "role": "scoreResource"
+   },
+   {
+      "name": "hmeq_logistic_score.py",
+      "role": "score"
+   },
+   {
+      "name": "AMLWrapper.py",
+      "role": "scoreResource"
+   },
+   {
+      "name": "ContainerWrapper.py",
+      "role": "scoreResource"
+   },
+   {
+      "name": "requirements.json",
+      "role": "scoreResource"
+   },
+   {
+      "name": "inputVar.json",
+      "role": "inputVariables"
+   },
+   {
+      "name": "hmeq_logistic.pickle",
+      "role": "python pickle"
+   },
+   {
+      "name": "outputVar.json",
+      "role": "outputVariables"
+   }
+]

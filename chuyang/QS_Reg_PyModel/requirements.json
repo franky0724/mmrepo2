@@ -1,0 +1,6 @@
+[
+    {
+        "step":"install statsmodels ",
+        "command":"pip3 install statsmodels"
+     }
+]

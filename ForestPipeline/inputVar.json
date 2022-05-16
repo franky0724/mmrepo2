@@ -1,0 +1,122 @@
+[
+   {
+      "name": "CLAGE",
+      "description": "",
+      "role": "input",
+      "type": "decimal",
+      "level": "interval",
+      "format": "",
+      "aggregation": "",
+      "length": 8
+   },
+   {
+      "name": "CLNO",
+      "description": "",
+      "role": "input",
+      "type": "decimal",
+      "level": "interval",
+      "format": "",
+      "aggregation": "",
+      "length": 8
+   },
+   {
+      "name": "LOAN",
+      "description": "",
+      "role": "input",
+      "type": "decimal",
+      "level": "interval",
+      "format": "",
+      "aggregation": "",
+      "length": 8
+   },
+   {
+      "name": "REASON",
+      "description": "",
+      "role": "input",
+      "type": "string",
+      "level": "binary",
+      "format": "",
+      "aggregation": "",
+      "length": 7
+   },
+   {
+      "name": "JOB",
+      "description": "",
+      "role": "input",
+      "type": "string",
+      "level": "nominal",
+      "format": "",
+      "aggregation": "",
+      "length": 7
+   },
+   {
+      "name": "NINQ",
+      "description": "",
+      "role": "input",
+      "type": "decimal",
+      "level": "nominal",
+      "format": "",
+      "aggregation": "",
+      "length": 8
+   },
+   {
+      "name": "VALUE",
+      "description": "",
+      "role": "input",
+      "type": "decimal",
+      "level": "interval",
+      "format": "",
+      "aggregation": "",
+      "length": 8
+   },
+   {
+      "name": "DELINQ",
+      "description": "",
+      "role": "input",
+      "type": "decimal",
+      "level": "nominal",
+      "format": "",
+      "aggregation": "",
+      "length": 8
+   },
+   {
+      "name": "YOJ",
+      "description": "",
+      "role": "input",
+      "type": "decimal",
+      "level": "interval",
+      "format": "",
+      "aggregation": "",
+      "length": 8
+   },
+   {
+      "name": "DEBTINC",
+      "description": "",
+      "role": "input",
+      "type": "decimal",
+      "level": "interval",
+      "format": "",
+      "aggregation": "",
+      "length": 8
+   },
+   {
+      "name": "MORTDUE",
+      "description": "",
+      "role": "input",
+      "type": "decimal",
+      "level": "interval",
+      "format": "",
+      "aggregation": "",
+      "length": 8
+   },
+   {
+      "name": "DEROG",
+      "description": "",
+      "role": "input",
+      "type": "decimal",
+      "level": "nominal",
+      "format": "",
+      "aggregation": "",
+      "length": 8
+   }
+]
